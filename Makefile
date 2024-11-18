@@ -1,7 +1,7 @@
 # building tool
 TEX = pdflatex
 BIB = bibtex
-NAME = tmeA
+NAME = template
 
 
 #OPTIONS = -shell-escape -halt-on-error
